@@ -108,6 +108,9 @@ Customer_Behaviour_Analysis/
 └── README.md
     └── Project documentation
 ```
+ ## Dashboard
+ ![Dashboard](Dashboard_PowerBI.png)
+
 
 ## Key Learnings
 
